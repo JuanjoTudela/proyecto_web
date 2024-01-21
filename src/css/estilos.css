@@ -1,0 +1,20 @@
+header {
+  background-color: #ffffff; /* Puedes cambiar el código de color según tus preferencias */
+  padding: 10px; /* Ajusta el espaciado interno según tus necesidades */
+  color: #310000; /* Color del texto en el encabezado */
+  position: relative; /* Agregado para que el menú se posicione correctamente */
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header h1 {
+  margin: 0; /* Elimina el margen predeterminado del h1 */
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+  color: #000000;
+  font-family: "Avenir Next", "Avenir", sans-serif;
+}
